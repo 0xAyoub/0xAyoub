@@ -26,5 +26,5 @@ je décide de te partager mon avancée dans l'apprentissage du Web3. <br> <br>
 <h2>📈 Mes objectifs.</h2>
 
 - Développer mes compétences en programmation (Web3 / Blockchain) <br>
-- Aider à la création de projet Blockchain (NFT / DAO / DApps / Tokens / Metaverse) <br>
+- Aider à la création de projets Blockchain (NFT / DAO / DApps / Tokens / Metaverse) <br>
 - Créer un réel empire autour de la technologie Blockchain <br>
