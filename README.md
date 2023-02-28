@@ -1,4 +1,4 @@
-<h1>Ayoub</h1><h2>Web3 Developer.</h1>
+<h2>Web3 Developer.</h1>
 As a blockchain developer trained at Alyra, I specialize in NFT projects and have extensive experience working with a variety of technologies, including Solidity, Javascript, ReactJS, Node.js, Ethers.js, Hardhat, and ChakraUI. With a passion for blockchain development and a proven track record of delivering high-quality solutions.
 
 
