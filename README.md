@@ -1,4 +1,4 @@
-<h1>Ayoub</h1><h2>Deep-Tech Enthusiast.</h2>
+<h1>Ayoub</h1><h2>Web3 Developer.</h1>
 
 
 <h3>_Developer skills.</h3>
