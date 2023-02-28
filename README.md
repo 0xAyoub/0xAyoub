@@ -1,7 +1,7 @@
 <h2>Web3 Blockchain Developer</h1>
 As a blockchain developer trained at Alyra, I specialize in NFT projects and have extensive experience working with a variety of technologies, including Solidity, Javascript, ReactJS, Node.js, Ethers.js, Hardhat, and ChakraUI. With a passion for blockchain development and a proven track record of delivering high-quality solutions.
 
-<br>
+<br><br>
 
 <h3>Developer skills</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" align="left" style="width: 35px"/>
