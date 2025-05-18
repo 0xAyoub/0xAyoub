@@ -1,10 +1,17 @@
-<h2>Développeur Fullstack (React.js / Node.js)</h1>
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" align="left" style="width: 35px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" align="left" style="width: 35px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="left" style="width: 35px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" align="left" style="width: 35px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" align="left" style="width: 35px" />           
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" align="left" style="width: 35px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" align="left" style="width: 35px" />          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" align="left" style="width: 35px"/>          
+<h2>Développeur Web Fullstack (React.js / Node.js)</h1>
+
+Ma stack technique: <br>
+- React.js / Next.js
+- Node.js
+- JavaScript
+- Postgresql / Firebase / Supabase
+- Google Cloud Platform (GCP) / Amazon Web Service (AWS) / Vercel / Heroku
+- Apprentissage de TypeScript
+- TailwindCSS / ChakraUI
+- HTML5 / CSS3
+
+Spécialités: <br>
+- SaaS (Software-as-a-Service)
+- IA / LLM / Agents IA
+- Agents IA vocaux
+- Twilio / ElevenLabs API / OpenAI API / Deepgram API / Google Speech-to-text API
