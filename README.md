@@ -17,9 +17,9 @@ Spécialités: <br>
 - IA / LLM / Agents IA
 - Agents IA vocaux
 - Twilio / ElevenLabs API / OpenAI API / Deepgram API / Google Speech-to-text API
-
+<br><br>
 ---
-
+<br><br>
 ENGLISH
 
 <h2>Fullstack Web Developer (React.js / Node.js)</h1>
@@ -41,4 +41,3 @@ Specialties: <br>
 - Voice AI agents
 - Twilio / ElevenLabs API / OpenAI API / Deepgram API / Google Speech-to-text API
 
-Translated with DeepL.com (free version)
